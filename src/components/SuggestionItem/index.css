@@ -1,0 +1,11 @@
+.list-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.icon {
+  height: 24px;
+  width: 24px;
+}
